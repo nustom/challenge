@@ -1,0 +1,43 @@
+#upload-form {
+  margin: 5rem auto 0 auto;
+  max-width: 768px;
+}
+
+.file-input {
+  border: 2px solid lightgray;
+  padding: 10px;
+  margin: 15px;
+  cursor: pointer;
+}
+
+
+.img-list {
+  text-align: center;
+  margin: 5px 15px;
+  border: 2px solid gray;
+}
+
+
+.submit-button {
+  padding: 12px;
+  margin-left: 10px;
+  background: white;
+  border: 2px solid gray;
+  border-radius: 15px;
+  font-weight: 700;
+  font-size: 10pt;
+  cursor: pointer;
+  &:hover {
+    background: #efefef
+  }
+}
+
+.preview-image {
+  width: 150px;
+}
+
+#uploaded-images-table {
+  td {
+    padding-bottom: 15px;
+  }
+}

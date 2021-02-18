@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.text-danger {
+  color: red;
+}
+
+.text-bold {
+  font-weight: bold;
+}
