@@ -10,7 +10,8 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "toastr": "^2.1.4"
   },
   "version": "0.1.0",
   "devDependencies": {
